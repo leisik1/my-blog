@@ -1,0 +1,25 @@
+[[entries]]
+title = "About me"
+
+  [[entries.entries]]
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/kisield/"
+
+  [[entries.entries]]
+  title = "Github repo"
+  url = "https://github.com/leisik1"
+
+  [[entries.entries]]
+  title = "CV"
+  url = "/CV_Daniel_Kisiel.pdf"
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+
