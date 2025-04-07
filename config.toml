@@ -39,4 +39,4 @@
     isShowFooter      = true
 
 relativeURLs = true
-baseURL = "https://leisik1.github.io/my-blog/"
+baseURL = "http://leisik1.github.io/my-blog/"
