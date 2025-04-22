@@ -16,6 +16,11 @@ title = "About me"
 [[entries]]
 title = "all posts"
 
+  [[entries.entries]]
+  title = "Lungs Article"
+  url = "/lungs-article.pdf"
+  description = "Check out my new article about lungs segmentation and volume counting!"
+
   [entries.post_list]
   limit = 5
   show_more = true
